@@ -17,3 +17,7 @@ Make your contract inherit `CallTestAndUndo`
 Edit the function you want to test to require it being called by `this`
 
 Use `_doTestAndReturnResult` to call the function (use `encodeCall`)
+
+## Demo
+
+See `testDemoCal` for a quick demo
